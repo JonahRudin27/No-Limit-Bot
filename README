@@ -1,0 +1,10 @@
+Goal is to Build a No Limit Bot that uses self play to train probably
+I want to have a feature where you can choose how many opponents you play and
+play a game of poker against a bunch of the bots as well as a feature where you
+pass in the scenario and it outputs a betting decision.
+Steps: Implement game logic
+Build model to train
+Train model
+Implement ways to interact with model
+
+Useful links:
